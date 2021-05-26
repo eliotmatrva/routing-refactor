@@ -1,0 +1,16 @@
+.navBar {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+}
+
+#signin_link {
+    background-color: cornflowerblue;
+}
+
+#mission_link {
+    background-color: chartreuse;
+}
+
+#about_link {
+    background-color: salmon;
+}
